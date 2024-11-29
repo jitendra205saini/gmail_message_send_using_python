@@ -1,0 +1,30 @@
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+sender_email = "xyz123@gmail.com"
+receiver_email = "yhsd01@gmail.com"
+password = "app password likhe jo google se mikla hai"
+
+
+subject = "Python se Email"
+body = "Namaste, yeh email Python script ke madhyam se bheja gaya hai!"
+
+
+message = MIMEMultipart()
+message["From"] = sender_email
+message["To"] = receiver_email
+message["Subject"] = subject
+
+
+message.attach(MIMEText(body, "plain"))
+
+try:
+   
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.starttls()  
+        server.login(sender_email, password)  
+        server.sendmail(sender_email, receiver_email, message.as_string())  
+        print("Email safalta se bheja gaya!")
+except Exception as e:
+    print("Kuch galti hui:", e)
