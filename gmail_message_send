@@ -1,10 +1,12 @@
+#pip install secure-smtplib
+
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 sender_email = "xyz123@gmail.com"
 receiver_email = "yhsd01@gmail.com"
-password = "app password likhe jo google se mikla hai"
+password = "app password likhe jo google se mila hai"
 
 
 subject = "Python se Email"
