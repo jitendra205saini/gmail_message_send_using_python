@@ -1,1 +1,1 @@
-# go to gmail account in menage your google account #
+# go to gmail account in  click => menage your google account #
