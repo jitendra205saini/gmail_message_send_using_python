@@ -9,7 +9,7 @@
 ### Under the Scurity section, you can click on 2 -step verification. ###
 ![](https://3.bp.blogspot.com/-WWsM7zmYizw/XNPx1NY5gMI/AAAAAAAAS4A/WyHXN0-WynI_Fa9EcFvuAse12y-bsx_TACK4BGAYYCw/s1600/security%2Bcheckup%2Bof%2BGoogle%2BAccount.jpg)
 ## step 4##
-### Turn on 2-step verification link mobile number ###
+### Turn on 2-step verification link mobile number then back for and top search app password###
 ![](https://www.lifewire.com/thmb/NwMdT59yfRPcozYfVRtMo0FZs1E=/2316x1180/filters:no_upscale():max_bytes(150000):strip_icc()/003_get-a-password-to-access-gmail-by-pop-imap-2-1171882-5c50e6e74cedfd0001f911da.jpg)
 ## step 5##
 ### Search within the Google account itself, click on the app password and click on it, when you click on it, you have to give your app name and after that you will have to generate a password. ###
